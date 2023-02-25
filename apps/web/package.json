@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "test": "echo \"Hello from web\"",
     "lint": "next lint"
   },
   "dependencies": {
